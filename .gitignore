@@ -1,0 +1,5 @@
+.venv
+# normally would grab from some standard location
+# like our class repo for example in /configs
+
+.idea
